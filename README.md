@@ -1,5 +1,4 @@
-# Named-Entity-Recognition
-# UNDERSTANDING TEXT FROM DIFFERENT TYPES OF CONSUMER REVIEWS
+# Understanding Text From Different Types of Consumer Reviews
 
 Text Mining for AI Final Project Report
 Authors: B.Yalcin, E.Erel, A.Ilbay, D.Gülal
